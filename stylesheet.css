@@ -75,7 +75,7 @@ img {
 }
 
 #home {
-  background-image: url(/Users/harunon38/Desktop/HTML.TRY！/WcbCafe/images/main-bg.jpg);
+  background-image: url(../images/main-bg.jpg);
   min-height: 100vh;
 }
 
@@ -117,7 +117,7 @@ iframe {
 
 /* News */
 #news {
-  background-image: url(file:///Users/harunon38/Desktop/HTML.TRY%EF%BC%81/WcbCafe/images/news-bg.jpg);
+  background-image: url(../images/news-bg.jpg);
   height: 270px;
   margin-bottom: 40px;
 }
@@ -220,7 +220,7 @@ aside p {
 
 /* menu */
 #menu {
-  background-image: url(/Users/harunon38/Desktop/HTML.TRY！/WcbCafe/images/menu-bg.jpg);
+  background-image: url(../images/menu-bg.jpg);
   min-height: 100vh;
 }
 
@@ -248,7 +248,7 @@ aside p {
 
 /* コンタクト */
 #contact {
-  background-image: url(file:///Users/harunon38/Desktop/HTML.TRY！/WcbCafe/images/contact-bg.jpg);
+  background-image: url(../images/contact-bg.jpg);
   min-height: 100vh;
 }
 
