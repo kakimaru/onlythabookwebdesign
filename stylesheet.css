@@ -138,7 +138,7 @@ iframe {
 
 /* 記事 */
 article {
-  width: 80%;
+  width: 74%;
 }
 
 article img {
@@ -203,7 +203,7 @@ aside p {
 }
 
 .sub-menu li {
-  border-bottom: 1px #432 solid;
+  border-bottom: 0.5px #b4b4b4 solid;
 }
 
 .sub-menu a {
