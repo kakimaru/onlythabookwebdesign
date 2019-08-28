@@ -61,6 +61,7 @@ img {
 .home-content {
   text-align: center;
   margin-top: 10%;
+  margin-bottom: 10%;
 }
 
 .home-content p {
@@ -83,6 +84,7 @@ img {
 #home .page-title {
   text-transform: none;
 }
+
 /* 見出し */
 .page-title {
   font-size: 5rem;
@@ -139,6 +141,7 @@ iframe {
 /* 記事 */
 article {
   width: 74%;
+  margin-right: 20px;
 }
 
 article img {
