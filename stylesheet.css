@@ -256,6 +256,10 @@ aside p {
   color: #ffeab9;
 }
 
+#contact .page-title {
+  color: #432;
+}
+
 /* フォーム */
 form div {
   margin-bottom: 14px;
