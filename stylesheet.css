@@ -138,8 +138,7 @@ iframe {
 
 /* 記事 */
 article {
-  width: 60%;
-  order: 2;
+  width: 80%;
 }
 
 article img {
@@ -191,8 +190,7 @@ article p {
 
 /* サイドバー */
 aside {
-  width: 20%;
-  order: 3;
+  width: 22%;
 }
 
 aside p {
@@ -205,7 +203,7 @@ aside p {
 }
 
 .sub-menu li {
-  border-bottom: 1px #ddd solid;
+  border-bottom: 1px #ffeab9 solid;
 }
 
 .sub-menu a {
@@ -216,10 +214,6 @@ aside p {
 
 .sub-menu a:hover {
   color: #e79f00;
-}
-
-.ad {
-  order: 1;
 }
 
 /* menu */
@@ -259,7 +253,7 @@ aside p {
 
 /* フォーム */
 form div {
-  margin-bottom: 14px;
+  margin-bottom: 40px;
 }
 
 label {
@@ -294,6 +288,7 @@ input[type="submit"] {
   border: none;
   cursor: pointer;
   line-height: 1;
+  margin-bottom: 20px;
 }
 
 /* 店舗情報 */
