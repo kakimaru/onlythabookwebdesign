@@ -89,6 +89,7 @@ img {
   font-family: "Philosopher", serif;
   text-transform: uppercase;
   font-weight: normal;
+  color: #432;
 }
 
 .sub-title {
@@ -254,10 +255,6 @@ aside p {
   background-image: url(contact-bg.jpg);
   min-height: 100vh;
   color: #ffeab9;
-}
-
-#contact .page-title {
-  color: #432;
 }
 
 /* フォーム */
